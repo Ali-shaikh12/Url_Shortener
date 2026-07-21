@@ -1,6 +1,14 @@
 # Url_Shortener
 A Django-based URL shortener web app that lets users create custom short links, redirect visitors to original URLs, and track link analytics including total clicks, device type, country data, and last click activity.
 
+<img width="1918" height="1079" alt="Screenshot 2026-07-21 130116" src="https://github.com/user-attachments/assets/d270f908-8094-4133-b792-8f65e335ba98" />
+<img width="1854" height="932" alt="Screenshot 2026-07-21 130523" src="https://github.com/user-attachments/assets/a5993fb7-c143-4c08-a919-f4fc4379ca4b" />
+<img width="829" height="865" alt="Screenshot 2026-07-21 130359" src="https://github.com/user-attachments/assets/f6faf2bf-2e7c-4087-bdba-592dcab0d0c4" />
+<img width="1919" height="892" alt="Screenshot 2026-07-21 130933" src="https://github.com/user-attachments/assets/605e10cb-eb9c-49e7-aaa3-ee1cf6b083f0" />
+<img width="1317" height="725" alt="Screenshot 2026-07-21 130859" src="https://github.com/user-attachments/assets/522ec399-8983-47f8-b2b9-2e40ebd9c195" />
+
+
+
 # Features
 - Create custom short URL aliases
 - Redirect short links to their original URLs
